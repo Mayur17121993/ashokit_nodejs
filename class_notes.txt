@@ -1,0 +1,17 @@
+Deploying Node project to AWS Server
+=====================================
+
+Step 1 
+    create gitignore file
+    >npx gitignore node
+        - ignores the "movement" of libraries(node_modules) to Github
+
+Step 2 :-
+    download the express module 
+    > npm i express --save
+
+Step 3 :- 
+    Develop rest services
+    > server.js
+
+Step 4 :- 
